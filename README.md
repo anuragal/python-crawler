@@ -8,6 +8,7 @@ Basic Features:
 3. Checks for http response 200
 
 Needs:
+
 1. Multiprocessing support
 2. Handle 301 and 302 url's
 3. Add crawled data into a database
