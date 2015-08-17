@@ -1,7 +1,8 @@
 # python-crawler
-Small Crawler written in Python
+Small Crawler written in Python 2.7
 
 Basic Features:
+
 1. Uses Max Depth to stop crawling
 2. Can crawl outside domain URL's
 3. Checks for http response 200
