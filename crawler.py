@@ -116,7 +116,7 @@ if __name__ == '__main__':
     max_depth = 1
     print "Crawler Started with Max Depth:", max_depth
     crawler = Crawler(max_depth)
-    crawler.crawl("http://recruiterbox.com/")
+    crawler.crawl("http://www.flipkart.com/")
     total_url_crawled = 0
     for link in crawler.visited:
         if crawler.visited[link]:

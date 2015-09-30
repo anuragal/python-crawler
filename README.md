@@ -12,3 +12,4 @@ Needs:
 1. Multiprocessing support
 2. Handle 301 and 302 url's
 3. Add crawled data into a database
+4. Respect robots.txt
